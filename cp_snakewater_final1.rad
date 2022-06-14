@@ -1,0 +1,6 @@
+forcetextureshadow models/props_gameplay/security_fence512.mdl
+forcetextureshadow models/props_gameplay/security_fence256.mdl
+forcetextureshadow models/props_gameplay/security_fence80.mdl
+forcetextureshadow models/props_gameplay/security_fence128.mdl
+forcetextureshadow models/props_gameplay/security_fence32.mdl
+forcetextureshadow models/props_gameplay/security_fence64.mdl
